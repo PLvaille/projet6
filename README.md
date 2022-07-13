@@ -1,10 +1,13 @@
 # HotTakes - projet6 
- 
+## Prerequisites
+You will need to have Node and npm installed locally on your machine.
+
 # Installation 
+Clone this repo.
 
 ## Frontend 
 
-Open a terminal in frontend directory
+Open a terminal in frontend folder
 
 ```
 npm i
@@ -15,7 +18,7 @@ npm run start
 
 ## Backend
 
-Open a terminal in backend directory
+Open a terminal in backend folder
 
 ```
 npm i
